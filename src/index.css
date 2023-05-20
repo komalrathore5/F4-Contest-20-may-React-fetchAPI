@@ -11,3 +11,46 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+body {
+    color: #161616;
+    background-color: #e0d0d0;
+}
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+    font-weight: 700;
+}
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th, td {
+    border: 1px solid #fff;
+}
+
+th, td {
+    padding: 0.8rem;
+}
+
+td>img {
+    width: 40px;
+}
+
+th,
+td {
+    border-left: none;
+    border-right: none;
+}
