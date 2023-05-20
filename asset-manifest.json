@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/F4-Contest-20-may-React-fetchAPI/static/css/main.d3d3b948.css",
+    "main.js": "/F4-Contest-20-may-React-fetchAPI/static/js/main.01dd543d.js",
+    "static/js/787.d4ecf4f7.chunk.js": "/F4-Contest-20-may-React-fetchAPI/static/js/787.d4ecf4f7.chunk.js",
+    "index.html": "/F4-Contest-20-may-React-fetchAPI/index.html",
+    "main.d3d3b948.css.map": "/F4-Contest-20-may-React-fetchAPI/static/css/main.d3d3b948.css.map",
+    "main.01dd543d.js.map": "/F4-Contest-20-may-React-fetchAPI/static/js/main.01dd543d.js.map",
+    "787.d4ecf4f7.chunk.js.map": "/F4-Contest-20-may-React-fetchAPI/static/js/787.d4ecf4f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3d3b948.css",
+    "static/js/main.01dd543d.js"
+  ]
+}
